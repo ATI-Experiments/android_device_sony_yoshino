@@ -1,0 +1,78 @@
+## All proprietary files from this list, unless pinned and noted otherwise,
+## are from Xperia XZ1 DSDS (47.2.A.11.228).
+
+# FFU_FIRMWARE
+lib/firmware/ufs/01AD-483238553734333031414D5220202020-D003.bin:etc/firmware/ufs/01AD-483238553734333031414D5220202020-D003.bin
+lib/firmware/ufs/01CE-4B4C554347344A3145442D4230433120-0200.bin:etc/firmware/ufs/01CE-4B4C554347344A3145442D4230433120-0200.bin
+
+# FIRMWARE
+etc/firmware/cmnlib.b01
+etc/firmware/cmnlib.mdt
+etc/firmware/cmnlib64.b01
+etc/firmware/cmnlib64.mdt
+etc/firmware/fidocfg.b01
+etc/firmware/fidocfg.mdt
+etc/firmware/fidocrypto.b01
+etc/firmware/fidocrypto.mdt
+etc/firmware/tzattest.b01
+etc/firmware/tzattest.mdt
+etc/firmware/tzsuntory.b01
+etc/firmware/tzsuntory.mdt
+etc/firmware/tztpm.b01
+etc/firmware/tztpm.mdt
+
+# MODEM
+etc/customization/modem/amss_fs_empty.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_airtel_in_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_ais_th_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_asiapacific_tw_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_att_us_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_beeline_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_china_mobile_cn_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_china_mobile_hk_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_cht_tw_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_csl_hk_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_ctm_mo_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_dtac_th_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_du_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_etisalat_ae_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_fareastone_tw_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_gteb_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_hutch_hk_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_ir51_ir92_ims_gte_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_ir51_ir92_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_m1_sg_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_megafon_ru_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_mts_ru_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_orange_poland_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_pccw_hk_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_reliance_com_in_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_reliance_jio_in_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_singtel_sg_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_smartone_hk_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_starhub_sg_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_stc_sa_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_tele2_ru_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_telkom_za_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_tmobile_us_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_tmobile_us_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_truemove_th_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_tstar_tw_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_twm_tw_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_verizon_us_ims_tar.mbn
+etc/customization/modem/amss_fsg_poplar_dsds_vodafone_in_ims_tar.mbn
+
+# SENSORS
+lib/libqmi_cci_system.so
+lib64/libqmi_cci_system.so
+lib64/libsensor1.so
+lib64/libsensor_reg.so
+lib64/libsensor_test.so
+
+# TOUCH
+somc/touch/images/big_touch.png:vendor/sony/touch/images/big_touch.png
+somc/touch/images/splash.png:vendor/sony/touch/images/splash.png
+
+# UDATEMISCTA
+bin/updatemiscta
